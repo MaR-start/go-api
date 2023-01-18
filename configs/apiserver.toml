@@ -1,0 +1,4 @@
+bind_addr = ":8080"
+log_level = "debug"
+database_url = "user=m4k4ras password=0665553037 dbname=go_restapi sslmode=disable"
+session_key = "4p31uxqyezs97ltgcbhiv068orjd5aw2kmfn"
