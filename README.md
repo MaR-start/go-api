@@ -14,14 +14,14 @@ http://127.0.0.1:8080
 127.0.0.1:8080/company/register
 
 POST 
-{
+*{
     "Name":      "Test",
 	"Email":       "test@mail.ru",
 	"Password":    "123456",
 	"Description": "test",
 	"Country":     "test",
 	"City":        "test"
-}
+*}
 
 * The password is encrypted and is not sent in the response
 
