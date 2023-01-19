@@ -79,6 +79,7 @@ http://127.0.0.1:8080
 # Vacancy Find
 
 127.0.0.1:8080/vacancy/find
+
 <b>POST</b><br>
 {<br>
     "Company_id":   "18"<br>
