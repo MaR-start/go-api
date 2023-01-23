@@ -31,6 +31,10 @@ func newDB(database_url string) (*sql.DB, error) {
 		return nil, err
 	}
 
+	// migrations
+
+	
+
 	if err := db.Ping(); err != nil {
 		return nil, err
 	}
